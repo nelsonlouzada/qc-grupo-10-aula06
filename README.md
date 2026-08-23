@@ -1,0 +1,1 @@
+# qc-grupo-10-aula06
