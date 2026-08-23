@@ -134,8 +134,7 @@ Para os itens **24/7** (SQL, Search, Function Premium se mantido, ML Endpoint):
 
 ### 3. Conclusão FinOps
 
-1. **Economia Líquida Anual em R$:** Ao optar por **3-Year Reserved Instances / Savings Plans** nos recursos de computação/BD contínuos (SQL, ML Endpoint e Functions), o custo mensal desses três serviços cai de **R$ 4.383,77** para **R$ 2.310,00**, gerando uma economia total de **R$ 2.073,77 / mês** (ou **R$ 24.885,24 / ano**).
-2. **Recomendação:** Contratar o compromisso de 3 anos para o banco de dados principal (SQL Hyperscale) e endpoints fixos do Azure ML, além de aplicar *Savings Plan* para o Function App.
+**Economia Líquida Anual em R$:** Ao optar por **3-Year Reserved Instances / Savings Plans** nos recursos de computação/BD contínuos (SQL, ML Endpoint e Functions), o custo mensal desses três serviços cai de **R$ 4.383,77** para **R$ 2.310,00**, gerando uma economia total de **R$ 2.073,77 / mês** (ou **R$ 24.885,24 / ano**).
 
 ---
 
